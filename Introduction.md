@@ -11,7 +11,7 @@ _Project Manager_ <br/>
 _Lead Developer_ <br/>
 **Benaya Simamora** — 01082240013  |   [benaya.josua@gmail.com](mailto:benaya.josua@gmail.com) 
 
-_Edit role kamu disini_ <br/>
+_UI/UX Designer_ <br/>
 **Jennifer** — 01082240029  |  [jenniferjen2408@gmail.com](mailto:jenniferjen2408@gmail.com)
 
 _Edit role kamu disini_ <br/>
