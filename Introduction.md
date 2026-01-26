@@ -8,7 +8,7 @@ Repository ini merupakan repository bersama untuk project dari matakuliah __PENG
 _Project Manager_ <br/>
 **Jayden Fitzkenzie Wijaya** — 01082240004  |  [jaydenwijaya28@gmail.com](mailto:jaydenwijaya28@gmail.com)
 
-_Lead Developer_ <br/>
+_Fullstack Developer_ <br/>
 **Benaya Simamora** — 01082240013  |   [benaya.josua@gmail.com](mailto:benaya.josua@gmail.com) 
 
 _UI/UX Designer_ <br/>
