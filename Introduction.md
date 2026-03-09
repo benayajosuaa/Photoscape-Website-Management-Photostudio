@@ -20,5 +20,6 @@ _QA Engineer_
 
 ## Sarana Kerja Tim
 
-- [Proposal Project Website Management Photostudio](https://docs.google.com/document/d/1ouqxY6G8nlWGe553ku1aga2-CMWtlOcmeuSTbXgQHns/edit?usp=sharing) 
+- [Proposal Project Website Management Photostudio - Photoscape](https://drive.google.com/file/d/1Yzdn3a1BbW04qDQm5R_ZRjTWSfL0nFkw/view?usp=sharing)
+- [Project Planning Website Management Photostudi - Photoscape](https://drive.google.com/file/d/1Yzdn3a1BbW04qDQm5R_ZRjTWSfL0nFkw/view?usp=sharing)
 
