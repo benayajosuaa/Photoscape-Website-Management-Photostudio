@@ -16,8 +16,4 @@ _System analyst_
 _QA Engineer_ 
 **Feren Feronika Haryanto** — 01082230016  |  [lauuurenttt28@gmail.com](mailto:lauuurenttt28@gmail.com) <br/>
 
-<br/>
-
-## Dokumentasi
-
 
