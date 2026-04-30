@@ -1,3 +1,0 @@
-# Dokument Project 
-
-1. 
