@@ -23,6 +23,8 @@ _QA Engineer_ <br/>
 
 <br/>
 
-## Demo 
+#### Demo 
 [Klik Disini Untuk Menjalankan Demo Photoscape](https://photoscape-frontend.vercel.app/)
 
+#### Pitching Product
+[Klik Disini Untuk Menjalankan Demo Photoscape](https://canva.link/gtfwuhg0tratugp)
